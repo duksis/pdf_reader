@@ -25,3 +25,4 @@ be found at <https://hexdocs.pm/pdf_reader>.
 * [ ] extract info section from PDF
 * [ ] extract metadata from PDF
 * [ ] Get list of pages
+* [ ] Support streams
